@@ -1,4 +1,4 @@
-🧠 React Quiz App
+# 🧠 React Quiz App
 A sleek and responsive multiple-choice quiz app built with React JS, styled using Tailwind CSS, and featuring a Dark Mode UI. The app allows users to select answers, track their score, and restart the quiz.
 
 ✨ Features
