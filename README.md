@@ -1,25 +1,12 @@
-🧠 React Quiz App
-A sleek and responsive multiple-choice quiz app built with React JS, styled using Tailwind CSS, and featuring a Dark Mode UI. The app allows users to select answers, track their score, and restart the quiz.
+# React + Vite
 
-✨ Features
-🧩 Multiple-choice questions
-🎯 Score tracking
-🌑 Dark mode theme
-📱 Responsive design
-💨 Tailwind CSS for fast, utility-first styling
-⚛️ Powered by React functional components and hooks
-🔧 Tech Stack
-React JS
-Tailwind CSS
-Vite – Fast dev server and build tool
-🚀 Getting Started
-📁 Clone the Repository
-git clone https://github.com/divyansh23s/web-development.git
-cd react-quiz-app
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Install Dependencies
-npm install
+Currently, two official plugins are available:
 
-🧪 Start Development Server
-npm run dev
-Open http://localhost:5173 to view it in the browser.
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Expanding the ESLint configuration
+
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
